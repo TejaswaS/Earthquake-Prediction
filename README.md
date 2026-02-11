@@ -1,0 +1,2 @@
+# Earthquake-Prediction
+Earthquake Prediction ML 🌍  A machine learning project that analyzes historical earthquake data to visualize global seismic activity and predict earthquake magnitude and depth using a neural network model. The system includes data preprocessing, geospatial visualization, and hyperparameter tuning to improve prediction performance.  Built with Python, Pandas, Scikit-learn, Keras, and Matplotlib, this project demonstrates how deep learning can be applied to real-world geospatial and disaster prediction problems.
